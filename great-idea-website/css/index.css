@@ -89,17 +89,10 @@ nav a{
 }
 
 /* Header styling */
-header div{
+header div {
 	display: inline-block;
 	width: 49%;
-	vertical-align: center;
-	height: 100%
-}
-
-header img {
-	vertical-align: center;
-	height: 100%
-
+	vertical-align: middle;
 }
 
 h1{
